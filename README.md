@@ -23,6 +23,12 @@ A tutorial to host a website with various resources from the internet such as gi
 
 ## Template 
 - w3.css [https://www.w3schools.com/w3css/w3css_templates.asp]
+- BMCC-HAck github [https://github.com/bmcchackathon/bmcchackathon.github.io]
+
+## Actual Websites using Github pages 
+- Bio [https://chini5ko.github.io/website_workshop_bmccHack/]
+- BMCC [https://bmcchackathon.github.io/]
+
 
 # April 6 ~ Workshop overview
 ### Let's connect the dots 
@@ -41,7 +47,7 @@ A tutorial to host a website with various resources from the internet such as gi
 - fuctions 
 - w3 school 
 
-# ~~~1~~~2~~~3~~~
+## ~~~1~~~2~~~3~~~
 ### Connecting the dots 
 A combination of w3-github-edi
 
@@ -55,4 +61,4 @@ A combination of w3-github-edi
 -   click on Embed 
 -   Finally, copy and paste that code on your HTML ~
 
-## Done ! 
+## Gooooood Luck ! 
