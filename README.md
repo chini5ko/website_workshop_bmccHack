@@ -24,8 +24,35 @@ A tutorial to host a website with various resources from the internet such as gi
 ## Template 
 - w3.css [https://www.w3schools.com/w3css/w3css_templates.asp]
 
+# April 6 ~ Workshop overview
+### Let's connect the dots 
+1 - Setup 
+- Visual Studio
+- Live Server
+- Bash (terminal)
+
+2 -  Github 
+- clone 
+- git add, git commit -m, git push
+- Email help page [https://help.github.com/en/articles/setting-your-commit-email-address-in-git]
+
+3 - Javascript 
+- Html 
+- fuctions 
+- w3 school 
+
+# ~~~1~~~2~~~3~~~
+### Connecting the dots 
+A combination of w3-github-edi
+
+
+
 ## Extra ~ Instagram 
-- Download the javascript file 
-- http://instafeedjs.com/
-- Integrate the code in your website 
+###Quick instragram API 
+-   Go to [www.instagram.com]
+-   Click on a picture
+-   Now, go to setting (...), the 3 dots 
+-   click on Embed 
+-   Finally, copy and paste that code on your HTML ~
+
 ## Done ! 
