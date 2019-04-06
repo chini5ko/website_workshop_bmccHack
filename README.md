@@ -18,6 +18,7 @@ A tutorial to host a website with various resources from the internet such as gi
 - create your repository 
 - For more info go to [https://pages.github.com/]
 - Quick Images steps [https://github.com/chini5ko/website_workshop_bmccHack/tree/master/gitImg]
+- git bash [https://git-scm.com/downloads]
 
 ## Visual Studio 
 -   Here is where you will edit your code 
